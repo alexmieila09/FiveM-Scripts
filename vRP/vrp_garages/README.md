@@ -1,4 +1,4 @@
-# vrp_shoowroomprotection
+# vrp_garages
  This script brings a change to Sighmir's resource, which add the function to sell the car at 50% of the price.
 
 
