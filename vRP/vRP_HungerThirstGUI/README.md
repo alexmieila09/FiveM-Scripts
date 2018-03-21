@@ -1,7 +1,4 @@
 # vrp_garages
- Hey guys,
-
-I could not post in Releases so i decided to make the post here. 
 
 This does exactly what the title says, it makes the vRP thirst and hunger bars look much better. (Also, now when you're hungry or thirsty the bar is at 0% just like the ingame HP bar would be if you had 0 HP.)
 
