@@ -4,6 +4,8 @@ This does exactly what the title says, it makes the vRP thirst and hunger bars l
 
 Works best on: 1920x1080, 1600x900, 1366x768, 1280x720, 1024x768 (If you want any other resolutions just leave a comment and I might make an update.) 
 
+![alt text](https://raw.githubusercontent.com/KilobaiD/FiveM-Scripts/master/vRP/vRP_HungerThirstGUI/becomes.png)
+
 How to install:
 
 A. Go to resources/vrp/gui and replace ProgressBar.js and design.css.
