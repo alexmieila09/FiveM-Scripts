@@ -56,4 +56,7 @@ text-shadow: 2px 2px black;
 
 inside your design.css file.
 
+For any further questions, comment down here.
+https://forum.fivem.net/t/improvement-better-looking-hunger-and-thirst-bars-for-vrp/93630/17
+
 Thanks to Cozonaq for helping me figure out how to make it beautifull.
