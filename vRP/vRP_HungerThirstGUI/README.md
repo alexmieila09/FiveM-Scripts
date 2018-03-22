@@ -8,42 +8,39 @@ Works best on: 1920x1080, 1600x900, 1366x768, 1280x720, 1024x768 (If you want an
 
 How to install:
 
-A. Go to resources/vrp/gui and replace ProgressBar.js and design.css.
-
-or
-
-B. If you did any changes to your design.css and want to keep them, then just replace the ProgressBar.js and change 
+1. Go to resources/vrp/gui and replace ProgressBar.js 
+2. Add into design.css 
 
 /* progress bar */
 .progressbar{
-  position: absolute;
+position: absolute;
 }
 
 .progressbar .inner{
 }
 
 .progressbar .label{
-  position: absolute;
-  color: white;
-  font-weight: bold;
-  text-align: center;
-  text-shadow: 2px 2px black;
+position: absolute;
+color: white;
+font-weight: bold;
+text-align: center;
+text-shadow: 2px 2px black;
 }
 
 to
 
 /* progress bar */
 .progressbar{
-  position: absolute;
-  padding-top:3px;
-  padding-bottom:3px;
+position: absolute;
+padding-top:3px;
+padding-bottom:3px;
 }
 
 @media only screen and (max-width: 1366px) {
-	.progressbar{
-  position: absolute;
-  padding-top:2px;
-  padding-bottom:2px;
+.progressbar{
+position: absolute;
+padding-top:2px;
+padding-bottom:2px;
 }
 }
 
@@ -51,13 +48,12 @@ to
 }
 
 .progressbar .label{
-  position: absolute;
-  color: white;
-  font-weight: bold;
-  text-align: center;
-  text-shadow: 2px 2px black;
+position: absolute;
+color: white;
+font-weight: bold;
+text-align: center;
+text-shadow: 2px 2px black;
 }
 
-inside your design.css file.
 
 Thanks to Cozonaq for helping me figure out how to make it beautifull.
