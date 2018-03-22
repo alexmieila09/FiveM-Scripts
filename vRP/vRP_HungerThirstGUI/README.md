@@ -8,9 +8,8 @@ Works best on: 1920x1080, 1600x900, 1366x768, 1280x720, 1024x768 (If you want an
 
 How to install:
 
-1. Go to resources/vrp/gui and replace ProgressBar.js 
-2. Add into design.css 
-
+Go to resources/vrp/gui and replace ProgressBar.js.
+Change
 /* progress bar */
 .progressbar{
 position: absolute;
@@ -55,5 +54,6 @@ text-align: center;
 text-shadow: 2px 2px black;
 }
 
+inside your design.css file.
 
 Thanks to Cozonaq for helping me figure out how to make it beautifull.
