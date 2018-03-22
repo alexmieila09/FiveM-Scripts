@@ -4,7 +4,7 @@ This does exactly what the title says, it changes the original vrp menu.
 
 Works best on: 1920x1080, 1600x900, 1366x768, 1280x720, 1024x768
 
-![alt text](https://raw.githubusercontent.com/KilobaiD/FiveM-Scripts/master/vRP/vRP_gui/menu.png)
+![alt text](https://raw.githubusercontent.com/KilobaiD/FiveM-Scripts/master/vRP/vrp_gui/menu.png)
 
 How to install:
 
