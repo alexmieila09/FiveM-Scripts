@@ -1,9 +1,5 @@
 # FiveM Scipts
 
-Thanks for Leo SHK for helping me with (Credits goes to him for theese systems)
-	-vRP_garages
-	-vRP_showroom
-
 Thanks for Sighmir for 
 	-vRP_garages
 	-vRP_showroom	
